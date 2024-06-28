@@ -4,7 +4,7 @@
 
 ## Description
 These two notebooks are used to prepare the dataset from the raw Spider files and push it to Hugging Face.
-The resulting dataset is already available on Hugging Face [here](https://huggingface.co/datasets/Hexamind/spider-clean-text-to-sql-4) or [here](https://huggingface.co/datasets/VictorDCh/spider-clean-text-to-sql-4).
+The resulting dataset is already available on Hugging Face [here](https://huggingface.co/datasets/Hexamind/spider-clean-text-to-sql-3) or [here](https://huggingface.co/datasets/VictorDCh/spider-clean-text-to-sql-3).
 The format of the dataset is the following:
 - columns: db_id, query, question, schema
 - content: name of the database that can be interrogated, SQL query corresponding to the user question, user question, schema of the database (instructions in SQL to create the tables and some content to insert in the tables)
