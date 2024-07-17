@@ -2,6 +2,9 @@
 
 ---
 
+## Authors
+Victor Dubus-Chanson, Hexamind
+
 ## Description
 These two notebooks are used to prepare the dataset from the raw Spider files and push it to Hugging Face.
 The resulting dataset is already available on Hugging Face [here](https://huggingface.co/datasets/Hexamind/spider-clean-text-to-sql-3) or [here](https://huggingface.co/datasets/VictorDCh/spider-clean-text-to-sql-3).
